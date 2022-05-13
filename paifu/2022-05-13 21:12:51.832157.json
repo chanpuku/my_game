@@ -1,0 +1,2032 @@
+{
+    "game_info": {
+        "numOfPeople": 3,
+        "numOfAkadora": 4,
+        "numOfSet": 3,
+        "torikiri": true,
+        "hanahai": 0,
+        "numOfKyoku": 3,
+        "numOfTonpu": 1,
+        "tenpai_renchan": true,
+        "daburon": true,
+        "chicha": 0,
+        "tobi_end": true,
+        "mochiten": 35000,
+        "tsumibo_point": 300,
+        "zerotobi": false,
+        "oyaken_kamityadori": false,
+        "player_info": [
+            {
+                "name": "basic agent"
+            },
+            {
+                "name": "basic agent"
+            },
+            {
+                "name": "basic agent"
+            }
+        ]
+    },
+    "kyoku": [
+        {
+            "kyoku_info": {
+                "kyoku": 1,
+                "honba": 0,
+                "kyotaku": 0,
+                "parent": 0,
+                "dora_hyoji_id": 25,
+                "haipai": [
+                    [
+                        27,
+                        28,
+                        24,
+                        17,
+                        36,
+                        35,
+                        8,
+                        36,
+                        36,
+                        18,
+                        36,
+                        17,
+                        0
+                    ],
+                    [
+                        28,
+                        28,
+                        17,
+                        23,
+                        9,
+                        29,
+                        19,
+                        16,
+                        32,
+                        19,
+                        19,
+                        15,
+                        10
+                    ],
+                    [
+                        27,
+                        27,
+                        32,
+                        29,
+                        33,
+                        9,
+                        9,
+                        16,
+                        35,
+                        8,
+                        16,
+                        12,
+                        20
+                    ]
+                ],
+                "score": [
+                    35000,
+                    35000,
+                    35000
+                ]
+            },
+            "moda": [
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 30
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 27,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "NAKI",
+                    "type2": "pon",
+                    "player_id": 2,
+                    "pai": 27,
+                    "from_player_id": 0,
+                    "reveal_pai_list": [
+                        27,
+                        27
+                    ]
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 29,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 31
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 28,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "NAKI",
+                    "type2": "pon",
+                    "player_id": 1,
+                    "pai": 28,
+                    "from_player_id": 0,
+                    "reveal_pai_list": [
+                        28,
+                        28
+                    ]
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 29,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 27
+                },
+                {
+                    "type": "NAKI",
+                    "type2": "kakan",
+                    "player_id": 2,
+                    "pai": 27,
+                    "from_player_id": -1,
+                    "reveal_pai_list": []
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 19
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 8,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 28
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 28,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 31
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 23,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 14
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 32,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 21
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 18,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 26
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 32,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 11
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 33,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 24
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 30,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 20
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 26,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 20
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 20,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 24
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 31,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 18
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 31,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 12
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 12,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 21
+                },
+                {
+                    "type": "NAKI",
+                    "type2": "ankan",
+                    "player_id": 0,
+                    "pai": 22,
+                    "from_player_id": -1,
+                    "reveal_pai_list": []
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 21
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 8,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 11
+                },
+                {
+                    "type": "AGARI",
+                    "type2": "tsumo",
+                    "player_id": 1,
+                    "-1": -1
+                }
+            ],
+            "kyoku_end_info": {
+                "type": "Agari",
+                "renchan": false,
+                "agari_info": {
+                    "type": "tsumo",
+                    "player_id": 1,
+                    "from_player_id": -1,
+                    "han": 4,
+                    "fu": 30,
+                    "daten": 8000
+                },
+                "score": [
+                    30000,
+                    43000,
+                    32000
+                ]
+            }
+        },
+        {
+            "kyoku_info": {
+                "kyoku": 2,
+                "honba": 0,
+                "kyotaku": 0,
+                "parent": 1,
+                "dora_hyoji_id": 35,
+                "haipai": [
+                    [
+                        27,
+                        27,
+                        10,
+                        26,
+                        21,
+                        19,
+                        30,
+                        23,
+                        16,
+                        36,
+                        19,
+                        19,
+                        21
+                    ],
+                    [
+                        27,
+                        28,
+                        15,
+                        24,
+                        18,
+                        15,
+                        9,
+                        32,
+                        9,
+                        23,
+                        14,
+                        29,
+                        9
+                    ],
+                    [
+                        28,
+                        28,
+                        23,
+                        33,
+                        33,
+                        14,
+                        29,
+                        17,
+                        0,
+                        16,
+                        19,
+                        23,
+                        8
+                    ]
+                ],
+                "score": [
+                    30000,
+                    43000,
+                    32000
+                ]
+            },
+            "moda": [
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 30
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 32,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 31
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 29,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 27
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 30,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 28
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 29,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 15
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 31,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 16
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 26,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 24
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 30,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 18
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 0,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 31
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 31,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 11
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 27,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "NAKI",
+                    "type2": "daiminkan",
+                    "player_id": 0,
+                    "pai": 27,
+                    "from_player_id": 1,
+                    "reveal_pai_list": [
+                        27,
+                        27,
+                        27
+                    ]
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 30
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 30,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 10
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 18,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 33
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 8,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 29
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 29,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 17
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 17,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 12
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 12,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 12
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 21,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 8
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 8,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 8
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 8,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 21
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 21,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 8
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 8,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 14
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 17,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 32
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 32,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 26
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 26,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 20
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 14,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 21
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 21,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 31
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 31,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 36
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 23,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 25
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 25,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 0
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 0,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 17
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 17,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 24
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 21,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "AGARI",
+                    "type2": "ron",
+                    "player_id": -1,
+                    "0": 0
+                }
+            ],
+            "kyoku_end_info": {
+                "type": "Agari",
+                "renchan": false,
+                "agari_info": {
+                    "type": "ron",
+                    "player_id": 2,
+                    "from_player_id": 0,
+                    "han": 4,
+                    "fu": 40,
+                    "daten": 8000
+                },
+                "score": [
+                    22000,
+                    43000,
+                    40000
+                ]
+            }
+        },
+        {
+            "kyoku_info": {
+                "kyoku": 3,
+                "honba": 0,
+                "kyotaku": 0,
+                "parent": 2,
+                "dora_hyoji_id": 20,
+                "haipai": [
+                    [
+                        28,
+                        28,
+                        32,
+                        29,
+                        26,
+                        26,
+                        20,
+                        8,
+                        26,
+                        33,
+                        18,
+                        20,
+                        9
+                    ],
+                    [
+                        27,
+                        27,
+                        0,
+                        15,
+                        9,
+                        18,
+                        10,
+                        36,
+                        35,
+                        29,
+                        0,
+                        32,
+                        21
+                    ],
+                    [
+                        27,
+                        28,
+                        29,
+                        25,
+                        10,
+                        19,
+                        25,
+                        21,
+                        11,
+                        16,
+                        9,
+                        11,
+                        17
+                    ]
+                ],
+                "score": [
+                    22000,
+                    43000,
+                    40000
+                ]
+            },
+            "moda": [
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 30
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 27,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "NAKI",
+                    "type2": "pon",
+                    "player_id": 1,
+                    "pai": 27,
+                    "from_player_id": 2,
+                    "reveal_pai_list": [
+                        27,
+                        27
+                    ]
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 18,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 31
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 28,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "NAKI",
+                    "type2": "pon",
+                    "player_id": 0,
+                    "pai": 28,
+                    "from_player_id": 2,
+                    "reveal_pai_list": [
+                        28,
+                        28
+                    ]
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 29,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 27
+                },
+                {
+                    "type": "NAKI",
+                    "type2": "kakan",
+                    "player_id": 1,
+                    "pai": 27,
+                    "from_player_id": -1,
+                    "reveal_pai_list": []
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 35
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 29,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 28
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 28,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 24
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 32,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 16
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 32,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 17
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 29,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 17
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 33,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 24
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 24,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 19
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 30,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 29
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 29,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 19
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 19,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "NAKI",
+                    "type2": "pon",
+                    "player_id": 2,
+                    "pai": 19,
+                    "from_player_id": 1,
+                    "reveal_pai_list": [
+                        19,
+                        19
+                    ]
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 31,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 21
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 8,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 15
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 0,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 20
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 11,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 23
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 18,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 24
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 0,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 19
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 16,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 8
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 21,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 10
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 24,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 32
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 32,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 12
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 9,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 9
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 9,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 25
+                },
+                {
+                    "type": "AGARI",
+                    "type2": "tsumo",
+                    "player_id": 2,
+                    "-1": -1
+                }
+            ],
+            "kyoku_end_info": {
+                "type": "Agari",
+                "renchan": true,
+                "agari_info": {
+                    "type": "tsumo",
+                    "player_id": 2,
+                    "from_player_id": -1,
+                    "han": 4,
+                    "fu": 30,
+                    "daten": 8000
+                },
+                "score": [
+                    16000,
+                    37000,
+                    52000
+                ]
+            }
+        },
+        {
+            "kyoku_info": {
+                "kyoku": 3,
+                "honba": 1,
+                "kyotaku": 0,
+                "parent": 2,
+                "dora_hyoji_id": 20,
+                "haipai": [
+                    [
+                        28,
+                        28,
+                        12,
+                        23,
+                        11,
+                        0,
+                        25,
+                        29,
+                        19,
+                        23,
+                        10,
+                        17,
+                        20
+                    ],
+                    [
+                        27,
+                        27,
+                        15,
+                        36,
+                        26,
+                        24,
+                        32,
+                        12,
+                        12,
+                        21,
+                        9,
+                        12,
+                        35
+                    ],
+                    [
+                        27,
+                        28,
+                        26,
+                        17,
+                        26,
+                        32,
+                        9,
+                        0,
+                        33,
+                        16,
+                        16,
+                        18,
+                        8
+                    ]
+                ],
+                "score": [
+                    16000,
+                    37000,
+                    52000
+                ]
+            },
+            "moda": [
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 30
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 27,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "NAKI",
+                    "type2": "pon",
+                    "player_id": 1,
+                    "pai": 27,
+                    "from_player_id": 2,
+                    "reveal_pai_list": [
+                        27,
+                        27
+                    ]
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 9,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 31
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 28,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "NAKI",
+                    "type2": "pon",
+                    "player_id": 0,
+                    "pai": 28,
+                    "from_player_id": 2,
+                    "reveal_pai_list": [
+                        28,
+                        28
+                    ]
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 29,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 27
+                },
+                {
+                    "type": "NAKI",
+                    "type2": "kakan",
+                    "player_id": 1,
+                    "pai": 27,
+                    "from_player_id": -1,
+                    "reveal_pai_list": []
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 11
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 15,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 28
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 28,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 21
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 17,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 33
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 32,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 10
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 32,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 31
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 31,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 36
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 33,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 36
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 31,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 8
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 0,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 33
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 33,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 15
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 33,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 17
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 17,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 18
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 18,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 32
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 32,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 0
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 0,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 29
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 29,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 36
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 30,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 14
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 8,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 19
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 19,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 35
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 16,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 24
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 14,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 32
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 32,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 26
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 18,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 21
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 21,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 33
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 33,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 9
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 10,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 25
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 23,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 35
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 21,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 14
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 0,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 11
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 11,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 30
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 30,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 35
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 8,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 31
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 31,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 29
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 29,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 14
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 9,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 31
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 31,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 30
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 30,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 23
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 9,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 20
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 20,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 16
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 16,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 8
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 8,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 11
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 11,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 8
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 8,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 23
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 14,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 0
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 0,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 17
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 17,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 10
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 10,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 21
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 21,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 19
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 19,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 16
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 16,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 24
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 24,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 25
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 11,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 14
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 14,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 15
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 15,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 20
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 20,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 2,
+                    "pai": 19
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 2,
+                    "pai": 19,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 0,
+                    "pai": 20
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 0,
+                    "pai": 20,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "TSUMO",
+                    "player_id": 1,
+                    "pai": 25
+                },
+                {
+                    "type": "DAHAI",
+                    "player_id": 1,
+                    "pai": 25,
+                    "tsumogiri": false
+                },
+                {
+                    "type": "AGARI",
+                    "type2": "ron",
+                    "player_id": -1,
+                    "1": 1
+                }
+            ],
+            "kyoku_end_info": {
+                "type": "Agari",
+                "renchan": false,
+                "agari_info": {
+                    "type": "ron",
+                    "player_id": 0,
+                    "from_player_id": 1,
+                    "han": 4,
+                    "fu": 40,
+                    "daten": 8000
+                },
+                "score": [
+                    24300,
+                    28700,
+                    52000
+                ]
+            }
+        }
+    ],
+    "game_end_info": {
+        "score": [
+            {
+                "order": 1,
+                "player_id": 2,
+                "score": 52000,
+                "finish_point": 47000
+            },
+            {
+                "order": 2,
+                "player_id": 1,
+                "score": 28700,
+                "finish_point": -21300
+            },
+            {
+                "order": 3,
+                "player_id": 0,
+                "score": 24300,
+                "finish_point": -25700
+            }
+        ]
+    }
+}
